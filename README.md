@@ -5,7 +5,8 @@ So for this, we will have a data file that contains the color name and its value
 Then we will calculate the distance from each color and find the shortest one.
 
 
-![colorpic](https://user-images.githubusercontent.com/53997811/118585749-286c0c80-b7b7-11eb-94f5-47da15756ca8.JPG)
+![Screenshot 2021-05-18 090114 JPG](https://user-images.githubusercontent.com/53997811/118586045-ab8d6280-b7b7-11eb-90ed-fdd79e6d3da9.png)
+
 
 
 
